@@ -1,23 +1,26 @@
-# Ask me anything!
+# なんでも聞いて!
 
-## [Ask a question](../../issues/new) &nbsp;&nbsp;&nbsp; [Read questions](../../issues?q=is%3Aissue+is%3Aclosed)
+## [質問する](../../issues/new) &nbsp;&nbsp;&nbsp; [質問を読む](../../issues?q=is%3Aissue+is%3Aclosed)
 
-I get a lot of questions by email. This way anyone can read the answer!
+たくさんの質問を電子メールでいただきます。このやり方ならみんなが答えを読めます！
 
-Anything means *anything*. Personal questions. Money. Work. Life. Code. Whatever.
+なんでもというのは *なんでも* です。個人的な質問、お金、仕事、人生、コード、なんでも。
 
 -
 
-### Guidelines
+### ガイドライン
 
-- Ensure your question hasn't already been answered.
-- Use a succinct title and description.
-- Bugs & feature requests should be opened on the relevant issue tracker.
-- Support questions are better asked on Stack Overflow.
-- Be civil and polite :)
+- あなたの質問はまだ答えられていないことを確認しましょう。
+- 題名や記述は簡潔に。
+- バグや機能リクエストは適切なイシュートラッカーに入れましょう。
+- サポート質問は Stack Overflow で聞いた方がいいです。
+- 礼儀正しく、丁寧に :)
 
-### Links
+### リンク
 
-- [Read more AMAs](https://github.com/sindresorhus/amas)
-- [Create your own AMA](https://github.com/sindresorhus/amas/blob/master/create-ama.md)
-- [What's an AMA?](https://en.wikipedia.org/wiki/Reddit#IAmA_and_AMA)
+- [他の「なんでも聞いて！」](https://github.com/sindresorhus/amas)
+- [「なんでも聞いて！」のつくりかた](https://github.com/sindresorhus/amas/blob/master/create-ama.md)
+- [「なんでも聞いて！」って何](https://en.wikipedia.org/wiki/Reddit#IAmA_and_AMA)
+
+### ChangeLog
+- 2015-07-13 日本語版を作成
